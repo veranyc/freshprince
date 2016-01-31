@@ -1,0 +1,12 @@
+h1 {
+	color: #3e40b3;
+	background: white;
+
+}
+body {
+		background: #a8ffe8;
+		width: 500px;
+		margin-left: auto;
+		margin-right: auto;
+		font-family: sans-serif;
+}
